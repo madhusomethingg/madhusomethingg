@@ -22,7 +22,7 @@
 
 <img align="right" alt="Coding" width="280" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif"/>
 
-I'm **Madhumitha** — a Data Scientist and ML enthusiast currently pursuing my **Master's in Data Science at the University of Maryland, College Park**.
+I'm **Madhumitha** — a Data Science and Machine Learning enthusiast currently pursuing my **Master's in Data Science at the University of Maryland, College Park**.
 
 I love working at the intersection of machine learning, statistics, and engineering to build intelligent systems that solve real problems. Whether it's training a deep learning model, wrangling messy datasets, or designing data pipelines — I'm all in.
 
